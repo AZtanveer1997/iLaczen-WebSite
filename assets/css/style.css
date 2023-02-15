@@ -9,7 +9,7 @@ a {
 }
 
 a:hover {
-  color: #73c5eb;
+  color: #F2BD1D;
   text-decoration: none;
 }
 
@@ -96,7 +96,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6bc1e9;
+  background: #F2BD1D;
   color: #fff;
 }
 
@@ -147,7 +147,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #F2BD1D;
 }
 
 #hero .btn-watch-video {
@@ -699,15 +699,15 @@ section {
 .services .service-item .readmore {
   margin-top: 15px;
   display: inline-block;
-  color: #f57f17;
+  color: #F2BD1D;
 }
 
 .services .service-item:hover .icon:before {
-  background: #f57f17;
+  background: #F2BD1D;
 }
 
 .services .service-item:hover h3 {
-  border-color:#f57f17;
+  border-color:#F2BD1D;
 }
 
 /*--------------------------------------------------------------
@@ -783,7 +783,7 @@ section {
   color: #011641;
   font-weight: 600;
   background: none;
-  border-bottom: 4px solid #f57f17;
+  border-bottom: 4px solid #F2BD1D;
   border-radius: 4px;
 }
 
@@ -804,7 +804,7 @@ section {
   font-size: 22px;
   line-height: 0;
   margin-right: 8px;
-  color:#f57f17;
+  color:#F2BD1D;
 }
 
 
@@ -843,8 +843,8 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #011640;
-  border: 2px solid #011640;
+  background: #F2BD1D;
+  border: 2px solid #F2BD1D;
 }
 
 @media (max-width: 1024px) {
@@ -1363,7 +1363,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #6182ba;
+  color: #011640;
 }
 
 .contact .info .email p {
@@ -1397,7 +1397,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #011640;
+  background: #F2BD1D;
   color: #fff;
 }
 
@@ -1503,7 +1503,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #209dd8;
+  background: #F2BD1D;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1613,7 +1613,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #209dd8;
+  background: #F2BD1D;
 }
 
 #footer .footer-top {
@@ -1687,7 +1687,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #011640;
+  color: #F2BD1D;
 }
 
 #footer .footer-top .social-links a {
@@ -1706,7 +1706,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #209dd8;
+  background: #F2BD1D;
   color: #fff;
   text-decoration: none;
 }

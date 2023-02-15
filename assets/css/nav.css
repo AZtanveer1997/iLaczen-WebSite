@@ -306,11 +306,11 @@
 }
 .header .menu > ul > li .menu-subs.menu-mega > .list-item > ul > li > a:hover,
 .header .menu > ul > li .menu-subs > ul > li > a:hover {
-  color: #0116408f;
+  color: #F2BD1D;
 }
 .header-item-right a:hover,
 .header .menu > ul > li:hover > a {
-  color: #0116408f;
+  color: #F2BD1D;
 }
 @media only screen and (min-width: 993px) {
   .header .menu > ul > li.menu-item-has-children:hover .menu-subs {
